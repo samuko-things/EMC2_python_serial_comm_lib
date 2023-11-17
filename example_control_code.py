@@ -12,8 +12,8 @@ angPosB=0.0
 angVelA=0.0
 angVelB=0.0
 
-lowTargetVel = 1.571 # in rad/sec
-highTargetVel = 3.142 # in rad/sec
+lowTargetVel = 3.142 # in rad/sec
+highTargetVel = -3.142 # in rad/sec
 
 prevTime = None
 sampleTime = 0.02
